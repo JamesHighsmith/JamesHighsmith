@@ -1,6 +1,6 @@
 ### Hi, I'm James! 👋
 
-I'm a software engineer 👾 based in New York 🗽, with a love 😍 for riding bikes 🚲, reading books 📚, and loving beagles 🐶.
+I'm a software engineer 👾 based in New York 🗽, with a love 😍 riding bikes 🚲, reading books 📚, and beagles 🐶.
 
 - 🔬 I lead a machine learning research lab focused on human health.
 - 🚀 I'm building infra for machine learning in production at scale.
