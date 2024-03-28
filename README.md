@@ -13,4 +13,4 @@ Reach me via email at [email](mailto:me@jameshighsmith.com). I'm always open to 
 
 <a class="twitter-follow-button"
   href="https://twitter.com/jameshighsmith">
-Follow @TwitterDev</a>
+Follow @JamesHighsmith</a>
