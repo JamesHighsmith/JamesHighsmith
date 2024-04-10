@@ -2,8 +2,8 @@
 
 I'm a software engineer 👾 based in New York 🗽, with a love 😍 riding bikes 🚲, reading books 📚, and beagles 🐶.
 
-- 🔬 I lead a machine learning research lab focused on human health.
-- 🚀 I'm building infra for machine learning in production at scale.
+- 🔬 I founded and been very early at a number of VC backed startups in SF and NYC.
+- 🚀 I've helped scale HBO Max and NYU to hundreds of millions of users.
 - 🚒 I'm a volunteer firefighter and a chairlift evacuation team member ⛷.
 - 🎬 Fun fact: I've acted in various TV shows 📺 and movies 🍿, including Succession 🎩, The Righteous Gemstones 💎, and Tiger King 🐯.
 
